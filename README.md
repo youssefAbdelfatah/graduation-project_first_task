@@ -1,6 +1,5 @@
 # get_quote
 
-edited
 A new Flutter project.
 
 ## Getting Started
